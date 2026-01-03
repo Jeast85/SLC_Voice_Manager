@@ -72,4 +72,12 @@
 **Enjoy your flight! ✈️**
 
 
-![Editor Screenshot](images/SLC%20Voice%20Pack%20Manager%2003_01_2026%2019_35_16.png)
+
+## Screenshots
+![Editor](images/SLC%20Voice%20Pack%20Manager%2003_01_2026%2019_35_16.png)
+
+![Generator](images/SLC%20Voice%20Pack%20Manager%2003_01_2026%2019_36_04.png)
+
+![Audio FX Preview](images/SLC%20Voice%20Pack%20Manager%2003_01_2026%2019_36_32.png)
+
+![Output Example](images/Screenshot%202026-01-03%20193716.png)
