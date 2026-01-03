@@ -26,7 +26,11 @@
 ### Step 2: Generator (Make it real)
 1.  Go to the **Generator** tab.
 2.  **Choose your Method**:
-    *   **SLC Text Files (TXT)**: Use this if you want the computer/Windows voice to read your text (supports dynamic variables like `{timeofday}` or `{destination}`).
+    *   **SLC Text Files (TXT)**: **The Power User Choice!** This generates a complete folder structure with `.txt` files properly named for SLC.
+        *   **Dynamic & Live**: SLC reads these files content *live* in the sim.
+        *   **Variables**: Supports variables like `{timeofday}`, `{destination}`, etc.
+        *   **Your Choice of Voice**: SLC uses these text files to generate audio using either **Standard Windows Voices** OR its own **Cloud API Integrations** (ElevenLabs/etc.) if you have them set up in SLC settings.
+        *   *Why use this?* It saves you hours of manually creating text files and folders. Just type your script, click Generate, and drop the folder into SLC.
     *   **ElevenLabs Audio (MP3)**: Use this for high-quality AI voices (Reference: ElevenLabs API).
 3.  If using **ElevenLabs**:
     *   Enter your **API Key** and **Voice ID**.
