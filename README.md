@@ -63,6 +63,8 @@
 
 ---
 
+
+![Editor Screenshot](images/SLC Voice Pack Manager 03_01_2026 19_35_16.png)
 ## 💡 Top Tips
 *   **Safety First**: The Generator starts in "Simulation Mode" by default so you don't accidentally waste API credits.
 *   **Variations**: The more variations you add to an event (e.g., 5 different ways to say "Hello"), the more realistic SLC will feel.
